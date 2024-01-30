@@ -1,0 +1,4 @@
+anthropic-bedrock==0.6.0
+langchain==0.0.344
+wikipedia==1.4.0
+google-api-python-client==2.115.0
